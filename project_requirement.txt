@@ -1,0 +1,7 @@
+ 
+
+        * Gather data from the soil.
+
+        * Gather data from the environment.
+
+        * Comeup with a logic that controlls uses this data to maximize farm produce.

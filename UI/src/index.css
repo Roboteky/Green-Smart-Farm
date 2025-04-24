@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .debug {
+    @apply border-2 border-red-600
+  }
+
+  .flex-col-centered {
+    @apply flex flex-col justify-center items-center
+  }
+
+  .flex-row-centered {
+    @apply flex justify-center items-center
+  }
+
+  
+}
